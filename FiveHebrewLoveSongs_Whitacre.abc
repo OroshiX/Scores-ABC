@@ -1,0 +1,73 @@
+X:1
+T:I. Temun\'a (A picture)
+M:6/8
+C:Eric Whitacre
+%%MIDI voice instrument=41 bank=2
+K:G
+L:1/8
+ Z8 | [M:2/4] Z1 | [M:6/8] Z1 | !mp!E3D3- | D6| D3C3 | B,3-B,zz | E3D3-| D6 | E3D3-| D6 | Z | !fermata!Z|]
+
+X:2 
+M:6/8
+K:G
+T:II. Kal\'a kall\'a (Light bride)
+Q:"Teneramente" 1/8=96
+L:1/8
+%%MIDI voice instrument=41 bank=2
+C:Eric Whitacre
+zz|!mp!D3C3 | B,3-B,2B, | D3C3 | (("esp."B,>^C)D (!mordent!CB,)A, | G,3)C3 | 
+B,3-B,2B, | D3[Q:"rit."]C3 | !diminuendo(!E3-!fermata! !diminuendo)!Ez!fermata!z ||
+[Q:"Leggero" 3/8=89]"pizz." !mp! !>![Ae]ae b2g | [M:2/4] !>!a2 !>!a2 | [M:6/8] !>![DA]dA e2c | [M:2/4] !>![Dd]2 !>![DFA]2 | [M:6/8]
+!>![Ae]ae b2g | [M:2/4] !>!a2 fg | !>![DAa]dA e2c |[M:2/4] !>!d2 !>!f!>!a | [M:6/8]
+!>![Ae]ae b2g | [M:2/4] !>!a2 !>!a2 | [M:6/8] !>![Afd']>d'c' bag | [M:2/4] !>![Af]e !>!d!>!f | [M:6/8]
+!>! [gG]3 [Af]3 | [M:3/4] !>![Ge]2!>![Ge]2!>![fAD]2 | [M:6/8] !>!e>ag fed | [M:3/4] \
+"arco"!>![B^g]6- &\ 
+E2 z2z2 | 
+!>![B^g] zz z3 || [Q:"Tempo I"] !mp! D3 C3 | B,3-B,2B, | 
+D3C3 | ((B,>^C)D (!mordent!CB,)A,) | G,2 (c (e>d)c| B2) (b !mordent!d>cB | c)z((B/c/) (E/G/)A)(D/F/) | [Q:"rit."]((G/F/E/D/A/F/) !fermata!^G) z!fermata!z ||
+[Q:"Tempo II"]"pizz." !mp! !>![Ae]ae b2g | [M:2/4] !>!a2 !>!a2 | [M:6/8] !>![DA]dA e2c | [M:2/4] !>![Dd]2 !>![DFA]2 | [M:6/8]
+!>![Ae]ae b2g | [M:2/4] !>!a2 !>!fg | !>![DAf]dA e2c |[M:2/4] !>!d2 !>!f!>!a | [M:6/8]
+!>![Ae]ae b2g | [M:2/4] !>!a2 !>!a2 | [M:6/8] !>![Afd']>d'c' bag | [M:2/4] !>![Af]e !>!d!>!f | [M:6/8]
+!>! [gG]3 !>![Af]3 | [M:3/4] !>![Ge]2!>![Ge]2!>![fAD]2 | [M:6/8] !>!e>ag fed | [M:3/4] \
+"arco"!>![B^g]6- &\ 
+E2 z2z2 |
+!>![Bg]zz!fermata!z3 ||[Q:"Adagio, espressivo" 1/8=80] Z3 | "arco"!mp!(B,>CD !mordent!(CB,)A,) | E>DC (e>dc | 
+(B,/E/)(F/G/)(B/e/)) [Q:"rit."]g3- | !fermata! g3 z3 || [Q:"Tempo II, Con fuoco"]!f! !>![DAf]zz !>![G,Ecg]zz | [M:3/4]!>![Be]2!>![Be]2 !tenuto!A2| [M:6/8]
+!>![Ae][Ae]/[Ae]/[Ae] !>![Ae][Ae][Ae]| [M:2/4] !>![Ae][Ae] !>![Ae][Ae]|[M:6/8]!>![Af][Af]/[Af]/[Af] !>![Af][Af][Af]|[M:2/4] !>![Af][Af] !>![Af][Af]| [M:6/8]
+!>![Ae][Ae]/[Ae]/[Ae] !>![Ae][Ae][Ae]| [M:2/4] !>![Ae][Ae] !>![Ae][Ae]|[M:6/8]!>![Af][Af]/[Af]/[Af] !>![Af][Af][Af]|[M:2/4] !>![Af][Af] !>![Af][Af]| [M:6/8]
+!>![Ae][Ae]/[Ae]/[Ae] !>![Ae][Ae][Ae]| [M:2/4] !>![Ae][Ae] !>![Ae][Ae]|[M:6/8]!>![Af][Af]/[Af]/[Af] !>![Af][Af][Af]|[M:2/4] !>![Af][Af] !>![Af][Af]/[Af]/| [M:6/8]
+!>![G,Ecg]zz !>![DAf]zz | [M:3/4] !>![Be]2!>![Be]2!tenuto![DAf]2 | [M:6/8] !>![G,Ecg]zz !>![DAf]zz | [M:3/4] !crescendo(![B^g]6 !crescendo)!| !ff![EB^g]z z2z2 |]
+
+X:3
+M:6/8
+K:C
+T:III. L\'arov (Mostly)
+Q:"Con rubato" 1/8=108
+L:1/16
+C:Eric Whitacre
+z2| !mf!(A,B,CDEC D3CB,2 | !diminuendo(!A,6D6)!diminuendo)! | (dcBcAB GFEFDC | B,A,CB,DG D6 ) | 
+!mf!(A,B,^CA,B,C DEFGAB | cdadcd A2)!crescendo(!(d2ga !crescendo)!| !f!c'd'g2)(c'd' fgd2)(dg | [M:3/8]
+[Q:"rit. "]ag^fedg | [M:2/4]!diminuendo(!A6)!diminuendo)!z2 | Z | !fermata!Z |]
+
+X:4
+K:C
+T:IV. \'Eyze sh\'eleg! (What snow!)
+L:1/4
+Z4| z4 !fermata! "8va - - - -"c'- [M:4/4] |: [Q:1/4=64"]"- - - - - - - - - - - - - - - - - - - - - - - -"!0!c'4- :|8 !diminuendo(! !0!c'4!diminuendo)! || 
+z2 z !pp! !sfz! !trill! !trill(!B, !trill)! | [L:1/8] "cresc. poco a poco" {A,B,} C z z2 !trill! !trill(! !sfz!F2 !trill)! E z | z2 !trill! !trill(! !sfz! B2 !trill)! {AB} c  z z2| !trill! !trill(! !sfz!f2 !trill)! e z  z2 !trill! !trill(! !sfz! b2 !trill)!  | 
+{ab}c'z z2 !sfz! !trill! !trill(!f'2 !trill)! e'z|  z2 (B,C) (EA) "esp."!mp!(c!crescendo(!c')!crescendo)! | !mf!b3 G | (3:2:4 g2f2(cF) | 
+g4 (3:2:4 (e2c2(CA)|e2 ) (E2 (3:2:4 !diminuendo(!c2B2GG,!diminuendo)! |[M:6/4] !trill! !trill(! !p! !sfz! B2) !trill)! Az !0! "8va" a2 z2 z4 | 
+!sfz! !trill! !trill(! B2 !trill)! A z !0!"8va"b2 z2z4| [M:4/4] [Q:"rit."] !trill! !trill(! B2 !trill)! Az "8va" !0! c'2z2| !trill! !trill(! !sfz! B2!trill)!Az !0!"8va"d'2z2|]
+
+X:5
+K:C
+L:1/8
+T:V.Rak\'ut (Tenderness)
+M:4/4
+Q:"Simplice" 1/4=76
+Z2 | !p! C8- | C8- | /|/| /| (C3D _B,3A, | C8-) | C4 z4|
+C8- | C6 "esp."(GA | _BB c!mordent!B A!mordent!G ^FE) | 
+G4G4 | C4G4 | C4 G2GA | _BB e!mordent!d B!mordent!A G=F | G4 [Q:"rit."]!crescendo(!F4!crescendo)! | [Q:"A tempo"]!mf! !diminuendo(!E4D4 !diminuendo)!| 
+!p! D2 !crescendo(! ((DE)(^FA)(de)) !crescendo)!| "su\b."!mp!(=f3f e3c | (cB)d6) | e3^fg4 | 
+!diminuendo(!a8 !diminuendo)! | z4 G4- | G2 z2 A,2D2 | CB,D6- | !diminuendo(! D8 !diminuendo)! | 
+z2A2E2C2 | A,2D2A4 | z4A4- | A4z4 | Z | [M:6/8]Z| !fermata!Z|]
