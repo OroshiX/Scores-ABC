@@ -13,6 +13,12 @@ c'2 c'/d'/ !pralltriller!c'/=b/ | c'/a/ f> {/g}f =e/f/ | g/=e/ c a/g/ f/=e/ |1 f
 =B4 | c2 AG | A3-A/B/ | A4 | =E2 G2 | F2-F/ C/ F/A/ | 
 X:2
 T:La baleine
+L:1/4
+M:4/4
+K:Am
+[V:1]|:"2:32"A,4-|A,A, CD | E4 | Z | A,4- | A, A, CD | D3 D | EG DE :| 
+[V:2]|:C4- | C CCD | E4 | Z | C4- | C EGE | F3 F | F C FE :| 
+E>F E>F | E/D/ C3 - | C4 | D>E D>E | D/C/ G,3 | A,4 |]
 X:3
 T:Dub #1 Festival Nologo
 L:1/8
@@ -22,10 +28,15 @@ AE AB c!pralltriller!B A^G | AE FD E2 E2 | AE AB c!pralltriller!B AB | dc !prall
  AE AB c!pralltriller!B A^G | AE FD E2E2 | CB, A,^G, B,G, A,B, | CD EF E2(E2{d}) |
  z4 A^G AB | c4 BA ^GB | A4 e3f | e4 {d2c2}B2 {d2c2}B2 |
  z a ^ga ba ^ga | f2ed c2Bd | c2AE F2z2 | 
+
 X:4
 T:Knocking on Heavens' door
 L:1/8
 M:6/8
 K:Em
 E2D E2 G- | G6 | B3-B2 c/B/ |  A2 G ^F2 D | F3-F2 G/F/ | E6 | 
-"2:15" B2d e2g- | g6- | g2 a/g/ f2d | e2 d B2 A | G2 E D2 E | G3-G2 B | A2 G-G2 D | E2 G A2 B | c2 A B3- | B3 d3
+"2:15" z3 B2d | e2g- g3- |g3- g2 a/g/ | f2d  e2 d | B2 A  G2 E | D2 E G3- | G2 B A2 G- | 
+G2 D E2 G | A2 B c2 A | B6 | d6 | ed2- d2 e | d2 B A2 G | F2D E2F | 
+GFG AGA | BAB cBc | dcd ede | g3-g2 g | a2 g g2 a | b3b3 |
+ (3c'2c'2c'2 | b2 a e2 g | f2 d e2 A | B2 c B2 G | A2 D F2 A | G2 D E2 G- | G3- G2 E |
+ D2 B, A,2B, | D2E G2 A | B2 G E2 G -| G3-G2 c | B2 G E2 G- | G3 DEF | G6 |] 
