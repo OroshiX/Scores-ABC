@@ -4,9 +4,16 @@ T:Sisyphe in Montmartre
 C:Khalil Chahine
 M:4/4
 K:F
-[V:1]z3 A-|A2G F| A3-A/B/ | (3c/d/c/-c2 d | a  f d A | c B/A/-A2 | A>G B>D |
- FGA>B | c2 G3/4c///G/// F | GA/G/-G =B| c d/B/-B c/d/- | d4 | _e f/_d/-d e/f/- | 
-f4 | z _d f _a | _ag c'>b | c'aec | b/b/ g/g/ d/d/ B/B/ | aec z | 
-A G/F/- F2 | E>D F>A | AGAd | d^cde | fdAG | FEDE | FEFE | D4 |]
-[V:2][A,,A,]4 | x4 | x4 |x4 |x4 |x4 |x4 |x4 |x3 z|x4 |x4 |x4 |x4 |x4 |x4 |x4 |x4 |x3z |x4 |x4 |x4 |x4 |
-x3z | x4 |x4 |x4 |x4 |]
+V:md clef=treble
+V:mg clef=bass middle=d
+[V:md]z3 A-|A2G F| A3-A/B/ | (3c/d/c/-c2 d | a  f d A | c B/A/-A2 | A>G B>D |
+[V:mg]"Dm"[fa]4 | "Dm"[dfa][dfa][dfa][dfa]| "BbM7" [Bdfa][Bdfa][Bdfa][Bdfa]|"F" [fac'][fac'][fac'][eac']  |"Dm"[dfa][dfa][dfa][dfa] |"Bb7"[Bdfa][Bdfa][Bdfa][Bdfa] | "Edim" [egb][egb][egb][egb] |
+%7
+[V:md] FGA>B | c2 G3/4c///G/// F | GA/G/-G =B| c d/B/-B c/d/- | d4 | _e f/_d/-d e/f/- | 
+[V:mg] "BbM7"[Bdfa][Bdfa][Bdfa][Bdfa]|"Am7" [Aceg][Aceg][Aceg][Aceg]| "CMaj7" [ceg=b][cegb][cegb][cegb]| "Cm7m" [c_egb][cegb][cegb][cegb]|"Dm"[dfa][dfa][dfa][dfa] |"Db7" [f_c'_d'] [fc'd'][fc'd'][fc'd']|
+%13
+[V:md]f4 | z _d f _a | _ag c'>b | c'aec | b/b/ g/g/ d/d/ B/B/ | aec z | 
+[V:mg] [f_e'f'][ge'f'][fe'f'][_ee'f'] |"Dbm7" [_dfac'][dfac'][dfac'][dfac']|"C7" c[egb][egb][egb] | "Am" [ac'e'][ac'e'][ac'e'][ac'e'] | "Gm" [gbd'][gbd'][gbd'][gbd'] |"Am" [ac'e'][ac'e'][ac'e'][ac'e']|
+%19
+[V:md] A G/F/- F2 | E>D F>A | AGAd | d^cde | fdAG | FEDE | FEFE | D4 |]
+[V:mg] "Dm7" [dfac'][dfac'][dfac'][dfac'] | "Am" [ace][ace] "FMaj7" [face][face] | "Dm" [dfa][dfa][dfa][dfa] | "A7" [a^ceg][aceg][aceg][aceg]| "Dm" [dfa][dfa][dfa][dfa] |"Gm7" [gbdf][gbdf][gbdf][gbdf] |"A7" [a^ceg][aceg][aceg][aceg] |"Dm"[dfa]4 |]
