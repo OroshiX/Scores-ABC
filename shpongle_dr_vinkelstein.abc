@@ -1,0 +1,22 @@
+X:1
+L:1/4
+T:Dr. Vinkelstein
+C:Shpongle
+M:4/4
+K:Bm
+V:md clef=treble staff=1
+V:mg clef=bass middle=d staff=2
+% Voix 1
+[V:md]z B/d/ c B | {B}^A4 | zB/d/ cB | e4 |
+ z B/d/ c B | {B}^A>G F>E | F>E F2 | {EFG} F2 E2 | - |
+ E4 | z B/d/ cB | {B}^A4 | zB/d/ cB &\ 
+E/G/ E/G/ E/G/ | {B}e4 |
+ zB/d/ cB | {B}^A>G FE | {E}F>E F2 | {EFG}F2 E2- | 
+E2 B2 | A>G =F>>G | A>G F3/2F//G// | F2 E2 -| E4 | 
+% Voix 2
+[V:mg] e[e'gb]3 | e2 [gbe']2| e [gbe']e2 | !arpeggio![egb]2 !arpeggio![egb]2 | 
+Z | B4 | B4 | e2B2 | 
+E>B E'2 | [V:mg clef=treble]G/E/ G/E/ G/E/ G/E/ | [E,G,^A,]4 | B4 | e2 [V:mg clef=treble]!arpeggio![gbe']2 | 
+[V:mg clef=bass middle=d]Z | Z | B/d/ f/b/ B/d/ f/b/ | Z | 
+B/f/ b3 | Z | Z | Z | x{^A2c2e2g2}x[V:mg clef=treble]{^A,2C2E4F4G4}x2 | 
+%7
