@@ -7,21 +7,22 @@ K:Bm
 V:md  staff=1 octave=0
 V:mg clef=bass staff=2 octave=-2
 % Voix 1
-[V:md]z B/d/ c B | {B}^A4 | zB/d/ cB | e4 |
- z B/d/ c B | {B}^A>G F>E | F>E F2 | {EFG} F2 E2- |
+[V:md]z B/d/ c B | {B}^A4 | zB/d/ cB | !arpeggio![Ge]4 |
+ z B/d/ c B | {EGB}^A3/2G/ F>E | F>E F2 | {EFG} F2 !arpeggio![B,E-]2 |
  E4 | z B/d/ cB &\
- z G- G/E/ G| {B}^A4 | zB/d/ cB &\ 
+%%MIDI gracedivider 4
+ z G- G/E/ G|  x2!arpeggio![eg^a]2 &{EGB}^A4 | zB/d/ cB &\ 
 z G- G/E/G | x2!arpeggio![gbe']2 &\
 {B}e4 |
- zB/d/ cB | {B}^A>G FE | {E}F>E F2 | {EFG}F2 E2- | 
+ zB/d/ cB & z E G/E/ G | {B}^A>G FE | {E}F>E F2 | {EFG}F2 E2- | 
 E2 !arpeggio![EGB]2 | A>G =F>>G | A>G F3/2F//G// | F2 E2 -| E4 | 
 !arpeggio![A,=CEA]2 !arpeggio![A=c]2 | !fermata!B4 ||\
 [L:1/8]z[B,EG]z[B,EG] z[B,EG]z[B,EG] | z[B,EG]z[B,EG] z[B,EG]z[B,EG] | z[B,EG]z[B,EG] z[B,EG]z[B,EG] |]
 % Voix 2
-[V:mg][L:1/4] e[e'gb]3 | e2 [gbe']2| e [gbe']e'/b/ e' | !arpeggio![egb]2 !arpeggio![egb]2 | 
+[V:mg][L:1/4] e[e'gb]3 | e2 [gbe']2| e [gbe'-]e'/b/ e' | !arpeggio![egb]2 !arpeggio![egb]2 | 
 e [gbe'] e'/b/ e' | e2 [gbe']2 | B2 [fdB]2| EBe2 | 
-E>B e2 | E4| eg/^a/ e'2 | e4 | e g/b/ e'2 | 
-e4 | e/g/ b3 | d/f/b3| c/e/c'3 | 
-B/f/ b3 | =c/=f/ a3 | A/=c/ f3 | c/g/ b3 | (6^A/c/e/g/[K:treble]^a/c'/e'f'g' | 
+E>B e2 | e4| eg/^a/ e'2 | e4 | e g/b/ e'2 | 
+e4 | eg b2 | d/f/b2f| c/e/c'3 | 
+B/f/ b2g | A/=c/a2 a | F/A/ f2a | c/e/ g2 b | (6^A/c/e/g/[K:treble]^a/c'/e'f'g' | 
 [K:bass]=c4| !fermata! !arpeggio![B^df]4|| \
 eBeB | eBeB | eBeB |]
