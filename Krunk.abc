@@ -1,0 +1,16 @@
+X:1
+T:Krunk
+M:3/4
+L:1/8
+K:Dm
+Q:"Larghetto"
+Z5 | !mp!{D}E6 | zD F2-(F/>E/) ((3E/F/D/) |  D6 | {D}(F>D) (D2E2) | F4 ((F/>E/) (5(E//G//F//E//D//))  |
+E4 ((3F/E/F/E/D/^C/) | D4 (A,>D ) | D4 ((3F/E/D/^C/B,/A,/) | G,4 (G,/A,3/2) | (A,/B,3/2) (DB,) A,B, | 
+{^CDE}D2 (B,3A,) | A,4 (A,>D ) | D4 (3F/E/D/(3^C/B,/A,/ | G,4 (G,<A,) | (A,<B,) (DB,) A,B, |
+{^CDE}D2 B,2>A,2 | A,4z2 | Z10 | !f!{/d'}e'6 | z !downbow!d'2/ (f'2-f'/>e'/) ((3e'/f'/d'/) | d'6 | {/d'}(f'>d') (d'2 e'2) |
+f'4 ((f'/>e'/) (5(e'/g'/f'/e'/d'/)) | e'4 ((3f'/e'/f'/(3e'/d'/^c'/) | d'4 (a>d') | d'4 ((3f'/e'/d'/(3^c'/b/a/) | g4 (g<a) | 
+(a<b) (d'b) ab | {^c'd'e'}d'2 (b2>a2) | !crescendo(!a4 (a>d') | !crescendo)!d'4 ((3f'/e'/d'/(3^c'/b/a/) | g4 (g<a) | (a<b) (d'b) ab |
+{^c'd'e'}d'2 (b2>a2) | !diminuendo(! a6 !diminuendo)!| !pp! a'4 (b'/g'/a'/f'/) | g'4 (a'/f'/g'/e'/) | f'4 (g'/e'/f'/d'/) | e'4 (f'/d')(/e'/^c'/) | 
+d'4 ((3f'/e'/d'/(3^c'/b/a/) | g4 !crescendo(!(g<a) | (a<b) (d'b) ab | {^c'd'e'}d'2 (b2>a2) | a4 !crescendo)! !f!(A>d) |
+d4 ((3f/e/d/(3^c/B/A/) | G4 (G<A) | (A<B) (dB) AB | !crescendo(!{^cde}d2 (B2>A2) |!crescendo)! A6- | !crescendo(!A6 !crescendo)!|]
+
