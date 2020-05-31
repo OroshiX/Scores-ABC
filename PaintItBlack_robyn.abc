@@ -119,7 +119,7 @@ w: May-be then_ I'll fade a-way_ and not have to face the facts_
 V:Vio
 E2              D2     | E4-                    | E4                       |D4| \
 V:P1
-[egc'][egc'][dfb][dfb] | [egb][egb][fac'][fac'] | [egc'][egc'][egc'][egc'] |[dg=b][dgb][dgb][dgb] | 
+[egc'][egc'][dfb][dfb] | [egb][egb][fac'][fac'] | [egc'][egc'][egc'][egc'] |[dg=b][dgb][dgb][dgb] |
 V:P2
 Z3 | Z |
 V:Bass
@@ -171,7 +171,7 @@ V:V
 FE-E/(D//C//B,- | B,2)EF | ED2C     | =B,4    |
 w: _ night_____ Black as_ coal__ 
 V:P1
-[dgb]4-          | [dgb]4 | [dg=b]4- | [dg=b]4 |
+[egb]4-          | [egb]4 | [dg=b]4- | [dg=b]4 |
 V:P2
 [Ee]2z2          | Z      | [Gg]2z2  | Z       |
 V:Bass
@@ -255,13 +255,13 @@ V:P1
 V:Vio
 E2D2 | E4- | E4 | D4 | 
 V:Bass
-CCB,B, | EEFF | GD=B,A, | G,DGD | 
+CCB,B, | EEFF | GD=B,=A, | G,DGD |
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%% Measure 89 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
       zCDE                   | FEDC                    | zCDE                       | FED2          |
 w: mmh____________
 V:P1
-[egc']4- | [egc']4 | [eac']4- | [eac']4 | \
+[egc']4- | [egc']4 | [fac']4- | [fac']4 | \
 V:P2
 c2z2        | Z       | F2z2      | Z       |
 V:Bass
@@ -271,7 +271,7 @@ V:V
 zCDE    | FEDC   | =B,B,B,C | D4      |]
 w: ____________
 V:P1
-[egb]4- | [egb]4 | [dg=b]4- | [dg=b]4 |]
+[eac']4- | [eac']4 | [dg=b]4- | [dg=b]4 |]
 V:P2
 A2z2    | Z      | G2z2     | Z       |]
 V:Bass
