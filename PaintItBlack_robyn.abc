@@ -1,12 +1,14 @@
 X:1
 %%measurenb 0
 T: Paint it black
-C: The rolling stones - Arrgt Robyn Adele Anderson
+A: The Rolling Stones
+C: The Rolling Stones - Arrgt Robyn Adele Anderson
+Z: OroshiX
 L:1/4
 M:C|
 K:Cm
-%%score V Vio{P1 | P2} Bass
-% [V P1 P2] OR {V (P1 P2)} OR [V (P1 P2)] or {V P1 | P2}
+%%score {P1 | P2}
+% [V P1 P2] OR {V (P1 P2)} OR [V (P1 P2)] or {V P1 | P2} OR V Vio{P1 | P2} Bass
 V:P1 clef=treble name="Piano" snm="Pf."
 V:P2 clef=bass octave=-2
 V:V name="Voice" clef=treble snm="V."
@@ -35,64 +37,64 @@ V:V
 w:I see a red door and I I want it pain-ted black 
 w: I see a line of cars and and they're all pain-ted black
 V:Vio
-|: "(2nd time)" {=B,}C z3 | Z | {E}Fz3 | Z | 
+|: "(2nd time)" C) z3 | z2z>(E | F)z3 | z2z>(G | 
 V:P1
    [egc'][egc'][egc'][egc'] | [egc'][egc'][egc'][egc'] | [fac'][fac'][fac'][fac'] | [fac'][fac'][fac'][fac'] |
 V:P2
    czzz                     | zz/ccc/                  | Fzzz                     | zz/FFF/                  |
 V:Bass
-   Czzz                     | zz/CCC/                  | Fzzz                     | zz/FFF/                  |
+   Czzz                     | zz/ccc/                  | Fzzz                     | zz/FF(F/  & x3z/(G/     |
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% measure 13 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
 zCDE                     | FEDC                     | =B,B,B,<C             | D3z                   |
 w: No co-lors a-ny-more I want them to turn black
 w: With flo-wers and my  love, both ne-ver to come back
 V:Vio
-{G}A z3 | Z | {^F}Gz3 | Z | 
+A) z3 | z2z>(F | G)z3 | Z | 
 V:P1
 [eac'][eac'][eac'][eac'] | [eac'][eac'][eac'][eac'] | [dg=b][dgb][dgb][dgb] | [dg=b][dgb][dgb][dgb] |
 V:P2
 Azzz                     | zz/AAA/                  | Gzzz                  | zz/GGG/               |
 V:Bass
-Azzz                     | zz/AAA/                  | Gzzz                  | zz/GGG/               |
+A)zzz        & A)x3       | zz/AA(A/ & x3z/(F/                | G) zzz   & G) x3    | zz/GGG/               |
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 0:30 measure 17 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
-   zcB-B/E/ | EE/F/-F(E/F/) | G                        G GB/G/- |
-w: I see_ the girls walk by_ dressed_ in their sum-mer clothes
-w: I see peo-ple turn their heads_ and_ quick-ly look a-way
+   zcB-B/E/ | EE/F/-F(E/F/) | G                        G GB/G/- |G4    | 
+w: I see_ the girls walk by_ dressed_ in their sum-mer clothes_
+w: I see peo-ple turn their heads_ and_ quick-ly look a-way_
 V:Vio
-"(2nd time)" E2                     D2     | E4-                              | E4                                |
+"(2nd time)" E2                     D2     | E4-                              | E4                                |D4| 
 V:P1
-   [egc'][egc'][dfb][dfb]| [egb][egb][fac'][fac']           | [egc'][egc'][egc'][egc']          |
+[egc'][egc'][dfb][dfb]| [egb][egb][fac'][fac'] | [egc'][egc'][egc'][egc'] |[dg=b][dgb][dgb][dgb] | 
 V:P2
-Z3 | 
+Z3 | Z |
 V:Bass
-   CzB,z                         | EzFz                             | CzEz                              |
-%%%%%%%%%%%%%%%%%%%% Measure 20 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   CzB,z                         | EzFz                             | CzEz        |GzG,=B,  |
+%%%%%%%%%%%%%%%%%%%% Measure 21 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
-G4    | zc      B>E | E E/F/-F E/F/ | GGG/GG/- | G4       :|
-w: _ I have to turn my head_ un--til my dark-ness goes_
-w: _ Like a_ new born ba-by it just hap-pens e-very day_
+zc      B>E | E E/F/-F E/F/ | GGG/GG/- | G4       :|
+w:  I have to turn my head_ un--til my dark-ness goes_
+w:  Like a_ new born ba-by it just hap-pens e-very day_
 V:Vio
-D4| E2D2       | E4- | E4           | D4             :|
+E2D2       | E4- | E4           | D4 & x3 z/(=B,/            :|
 V:P1
-[dg=b][dgb][dgb][dgb] | [egc'][egc'][dfb][dfb]| [egb][egb][fac'][fac']| [dg=b][dgb][dgb][dgb] | [dg=b][dgb][dgb][dgb] :|
+[egc'][egc'][dfb][dfb]| [egb][egb][fac'][fac']| [dg=b][dgb][dgb][dgb] | [dg=b][dgb][dgb][dgb] :|
 V:P2
-Z |Z | Z | Z | Z  :|
+Z | Z | Z | Z  :|
 V:Bass
-GzG,=B,  | CzB,z         | EzFz     | GzG,z       | GzGD        :|
+ CzB,z         | EzFz     | GzG,z       | GzGD        :|
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 1:13 measure 25 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
 zCDE                     | FEDC                     | zCDE                     | FED2                     |
 w: I look in-side my-self and I see my heart is black
 V:Vio
-{=B,}C z3 | Z | {E}Fz3 | Z | 
+C) z3 | Z | {E}Fz3 | Z | 
 V:P1
 [egc'][egc'][egc'][egc'] | [egc'][egc'][egc'][egc'] | [fac'][fac'][fac'][fac'] | [fac'][fac'][fac'][fac'] |
 V:P2
 czzz| zz/ccc/| Fzzz| zz/FFF/                  |
 V:Bass
-czc'z | cz/c'c'c'/| fzcz| zz/ffg/                  |
+Czcz | Cz/cc(c/| F)zCz| Fz/FF(G/                  |
 %%%%%%%%%%%%%%% Measure 29 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
 zCDE| FEDC| =B,B,B,<C             | D3z                   |
@@ -104,39 +106,39 @@ V:P1
 V:P2
 Azzz                     | zz/AAA/                  | Gzzz                  | zz/GGG/               |
 V:Bass
-azez                     | az/ea^f/                  | gzGz                  | gdg=b,|
+A)zEz                     | Az/EA(^F/                  | G)zG,z                  | GDG=B,|
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 1:30 measure 33 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
-   zc/-c/     B-B/E/   | E     E/F/FE/F/ | GG GB/G/- |
-w: May-be then_ I'll fade a-way_ and not have to face the facts
+   zc/-c/     B-B/E/   | E     E/F/FE/F/ | GG GB/G/- | G4    |
+w: May-be then_ I'll fade a-way_ and not have to face the facts_
 V:Vio
-E2              D2     | E4-                    | E4                       |
+E2              D2     | E4-                    | E4                       |D4| 
 V:P1
-[egc'][egc'][dfb][dfb] | [egb][egb][fac'][fac'] | [egc'][egc'][egc'][egc'] |
+[egc'][egc'][dfb][dfb] | [egb][egb][fac'][fac'] | [egc'][egc'][egc'][egc'] |[dg=b][dgb][dgb][dgb] | 
 V:P2
-Z3 | 
+Z3 | Z |
 V:Bass
-CCB,B,                 | EEFF                  | CCEE          |
-%%%%%%%%%%%%%%%%%%% Measure 36 %%%%%%%%%%%%%%%%%%%%%%%%%%%
+CCB,B,                 | EEFF                  | CCEE          |Gz=A,=B,  | 
+%%%%%%%%%%%%%%%%%%% Measure 37 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
-G4    | zc      B>E | E E/F/-F E/F/ | GGG/GG/- | G4       |
-w: _ 'snot ea-sy fa-cing up,_ when_ your whole world is black_
+ zc      B>E | E E/F/-F E/F/ | GGG/GG/- | G4       |
+w: 'snot ea-sy fa-cing up,_ when_ your whole world is black_
 V:Vio
-D4| E2D2       | E4- | E4           | D4             | X16
+E2D2       | E4- | E4           | D4             | X16
 V:P1
-[dg=b][dgb][dgb][dgb] | [egc'][egc'][dfb][dfb]| [egb][egb][fac'][fac']| [dg=b][dgb][dgb][dgb] | [dg=b][dgb][dgb][dgb] |
+[egc'][egc'][dfb][dfb]| [egb][egb][fac'][fac']| [dg=b][dgb][dgb][dgb] | [dg=b][dgb][dgb][dgb] |
 V:P2
-Z |Z | Z | Z | Z  |
+Z | Z | Z | Z  |
 V:Bass
-Gz=A,=B,  | CCB,B,         | EEFF     | GGDD       | GG=A,=B,        |
+CCB,B,         | EEFF     | GGDD       | GG=A,=B,        |
 %%%%%%%%%%%%%%%%%%%%% 1:43  measure 41 %%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
 zCDE     | FEDC    | zCDE     | FED2    |
 w: mmh____________ 
 V:P1
-[egc']4- | [egc']4 | [eac']4- | [eac']4 |
+[egc']4- | [egc']4 | [eac']4- | [eac']4 | \
 V:P2
-C2z2        | Z       | A2z2      | Z       |
+C2z2        | Z       | A2z2      | Z       | 
 V:Bass
 Cz3        | Z       | Az3      | Z       |
 %%%%%%%%%%%%%%%%%%%%%%% Measure 45 %%%%%%%%%%%%%%%%%%%%%%%%
@@ -154,7 +156,7 @@ V:V
 zGG/F/   E/G/- | G/F/-F  G/F/ E/G/- | G/F/     E3 | z>      G-GF- |
 w: I want_ it pain--ted_ pain--ted black___ Black_ as
 V:P1
-[egc']4-       | [egc']4            | [eac']4-    | [eac']4       |
+[egc']4-       | [egc']4            | [eac']4-    | [eac']4       | \
 V:P2
 [Cc]2z2        | Z                  | [Aa]2z2     | Z             |
 V:Bass
@@ -176,14 +178,14 @@ w:I wan-na see__ the sun__ blot-ted out from the sky I wan-na
 V:Vio
 E4- | E4 | C4- | C4 | 
 V:P1
-[egc']4- | [egc']4 | [eac']4 -| [eac']4 | 
+[egc']4- | [egc']4 | [eac']4 -| [eac']4 | \
 V:P2
 [Cc]2z2 | Z | [Aa]2z2 | Z | 
 V:Bass
 CCCC | CCCC | AAAA | AAAA | 
 %%%%%%%%%%%%%%%%%%%% Measure 61 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
-      (3GFE FG             | zz/        B/-BG        | zz/          B/-BG         | G4            |
+      (3GFE FG             | zz/        B/-BG        | zz/          B/-BG         | G4            |Z8 | 
 w:see_ it pain-ted pain--ted pain--ted black
 V:P1
 [egb]4- | [egb]4 | [dg=b]4- | [dg=b]4 | 
@@ -194,9 +196,6 @@ G4- |G4 | D4- | D4 |
 V:Bass
 EEEE | EEEE | GGGG | GDGD | 
 %%%%%%%%%%%%%%%%%%%%%%%%%%% 2:26 measure 65 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-V:V
-X4 |
-X4 |
 V:Vio
 zCDE | FEDC | zCDE | FED2 | zCDE | FEDC | =B,B,B,/C/-C | D4 | 
 V:P1
@@ -217,7 +216,7 @@ V:P1
 V:P2
 czzz | zz/ccc/ | F zzz | zz/FFF/ | 
 V:Bass
-CzGz | Cz/c'c'c'/ | f zcz | fz/ffg/ | 
+CzGz | Cz/ccc/ | F zCz | Fz/FF(G/ | 
 %%%%%%%%%%%%%%%%%% Measure 77 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
       zCDE                   | FEDC                    | =B,B,B,/C/-C               | D4            |
@@ -229,7 +228,7 @@ V:P1
 V:P2
 Azzz | zz/AAA/ | Gzz2 | Z| 
 V:Bass
-azez | az/aaa/ | gz gz | gdgd| 
+A)zEz | Az/AA(A/ | G)z G,z | GDGD| 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 2:55 Measure 81 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
       zc/c/   B2             | E          E/F/-F(E/F/) | G            G G/B/- B/G/- | G4            |
@@ -244,7 +243,7 @@ V:Bass
 CCB,B, | EE FF | CCEE | GG=A,=B, | 
 %%%%%%%%%%%%%%%%%%%%%%%%%%% Meausre 85 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 V:V
-      z       c B>>E         | E          E/F/-F E/F/  | GGG/G/-      G/G/-         | G4            |
+      z       c B>E         | E          E/F/-F (E/F/)  | GGG/G/-      G/G/-         | G4            |
 w:My love will laugh with me_ be--fore the mor-ning_ comes_
 V:P1
 [egc'][egc'][dfb][dfb]| [egb][egb][fac'][fac']| [dg=b][dgb][dgb][dgb] | [dg=b][dgb][dgb][dgb] |
@@ -257,7 +256,7 @@ V:V
       zCDE                   | FEDC                    | zCDE                       | FED2          |
 w: mmh____________
 V:P1
-[egc']4- | [egc']4 | [eac']4- | [eac']4 |
+[egc']4- | [egc']4 | [eac']4- | [eac']4 | \
 V:P2
 c2z2        | Z       | F2z2      | Z       |
 V:Bass
