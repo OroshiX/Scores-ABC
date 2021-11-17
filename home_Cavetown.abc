@@ -1,0 +1,16 @@
+X:1
+T:Home
+C:Cavetown
+L:1/4
+M:C
+K:Bbm
+P:Violin
+"A"
+A>A =A>A | _A3 |
+"B"
+|: [P:Voice]F2E2 | =E2 F2 | A,4 | Z :| F2E2 | =E2 F2 | A4 | Z5 | 
+[P:Violin] "C" d2 c2 | c2 d2 | F4 | z2 v (^G/=A/) B |  d2 c2 | c2 d2 | F3 {/E}F | E>F/E// ^G/=A/ B | 
+ d2 c2 | c2 d2 | f3 {e}f | e>f/e// ^G/=A/ B | B2 ef | g4 | f4 | z2 ^G/=A/ B |
+W: But I guess this avoids the stress of falling out of it (2 mes) => A
+W: I will fly us out of here (1 mes) => B
+W: I'll hide my chest and figure out a way to get out of here (2 mes) => C
